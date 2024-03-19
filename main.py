@@ -639,7 +639,7 @@ root.geometry('1270x690+0+0')
 
 root.resizable(0,0)
 
-root.title('Restaurant Management System created by Faizan Khan')
+root.title('Restaurant Management System created by Sangannagari Sridivya')
 
 root.config(bg='firebrick4')
 
